@@ -53,6 +53,8 @@ out my mistakes.
     (1992)](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=E3EF5044D50D630339F9E28C64904623?doi=10.1.1.33.5381)
 17. [An introduction to the theory of lists
     (1987)](http://citeseerx.ist.psu.edu/showciting?cid=28004)
+18. [A Partial Ordering of some Category Theory applied to
+    Haskell](http://blog.sigfpe.com/2010_03_01_archive.html)
 
 ### General
 
