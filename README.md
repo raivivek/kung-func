@@ -55,9 +55,13 @@ out my mistakes.
     (1987)](http://citeseerx.ist.psu.edu/showciting?cid=28004)
 18. [A Partial Ordering of some Category Theory applied to
     Haskell](http://blog.sigfpe.com/2010_03_01_archive.html)
+19. [Miranda: A non-strict functional language with polymorphic types](http://www.cs.kent.ac.uk/people/staff/dat/miranda/nancypaper.pdf)
+20. [Church’s Thesis and Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/ctfp.pdf)
+21. [Monadic Parser Combinators](http://www.cs.nott.ac.uk/~gmh/monparsing.pdf)
 
 ### General
 
 1. [Rambles around computer science](http://www.cl.cam.ac.uk/~srk31/blog/2014/10/07/)
 2. [Why functional programming matters
    (1989)](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=E3EF5044D50D630339F9E28C64904623?doi=10.1.1.33.5381)
+3. [The Semantic Elegance of Applicative Languages](http://nsl.com/misc/sasl/paraffins-turner.pdf)
