@@ -58,6 +58,7 @@ out my mistakes.
 19. [Miranda: A non-strict functional language with polymorphic types](http://www.cs.kent.ac.uk/people/staff/dat/miranda/nancypaper.pdf)
 20. [Church’s Thesis and Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/ctfp.pdf)
 21. [Monadic Parser Combinators](http://www.cs.nott.ac.uk/~gmh/monparsing.pdf)
+22. [Haskell Communities and Activities Report 2014](https://www.haskell.org/communities/11-2014/report.pdf)
 
 ### General
 
