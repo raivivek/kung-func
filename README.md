@@ -10,15 +10,17 @@ out my mistakes.
 1. [SICP](mitpress.mit.edu/sicp/)
 
 ## Doing
-1. Introduction to Functional Programming, [FP101x](https://courses.edx.org/courses/DelftX/FP101x/), [edX.org](edx.org)
+1. Introduction to Functional Programming,
+   [FP101x](https://courses.edx.org/courses/DelftX/FP101x/),
+   [edX.org](http://edx.org)
 2. [Ninety-Nine Haskell Problems](https://www.haskell.org/haskellwiki/99_questions)
 
 ## Useful Collections
-1. [gwern.net](gwern.net)
+1. [gwern.net](http://gwern.net)
 2. [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
 
 ## Scavenged Links
-*(Mostly collected from @headinthebox's tweets)*
+*(Mostly collected from @headinthebox's tweets, Haskell mailing list)*
 
 ### Related to FP, Haskell etc.,
 1. [User-defined Types and Procedural Data Structures as Complementary
@@ -55,10 +57,13 @@ out my mistakes.
     (1987)](http://citeseerx.ist.psu.edu/showciting?cid=28004)
 18. [A Partial Ordering of some Category Theory applied to
     Haskell](http://blog.sigfpe.com/2010_03_01_archive.html)
-19. [Miranda: A non-strict functional language with polymorphic types](http://www.cs.kent.ac.uk/people/staff/dat/miranda/nancypaper.pdf)
-20. [Church’s Thesis and Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/ctfp.pdf)
+19. [Miranda: A non-strict functional language with polymorphic
+    types](http://www.cs.kent.ac.uk/people/staff/dat/miranda/nancypaper.pdf)
+20. [Church’s Thesis and Functional
+    Programming](http://www.eis.mdx.ac.uk/staffpages/dat/ctfp.pdf)
 21. [Monadic Parser Combinators](http://www.cs.nott.ac.uk/~gmh/monparsing.pdf)
-22. [Haskell Communities and Activities Report 2014](https://www.haskell.org/communities/11-2014/report.pdf)
+22. [Haskell Communities and Activities Report
+    2014](https://www.haskell.org/communities/11-2014/report.pdf)
 
 ### General
 
