@@ -64,6 +64,12 @@ out my mistakes.
 21. [Monadic Parser Combinators](http://www.cs.nott.ac.uk/~gmh/monparsing.pdf)
 22. [Haskell Communities and Activities Report
     2014](https://www.haskell.org/communities/11-2014/report.pdf)
+23. [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+24. [Tackling the Awkward Squad: monadic input/output, concurrency, exceptions,
+    and foreign-language calls in
+    Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/marktoberdorf/mark.pdf)
+25. [Monads for the Curious Programmer, Part
+    1](http://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/)
 
 ### General
 
@@ -71,3 +77,4 @@ out my mistakes.
 2. [Why functional programming matters
    (1989)](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=E3EF5044D50D630339F9E28C64904623?doi=10.1.1.33.5381)
 3. [The Semantic Elegance of Applicative Languages](http://nsl.com/misc/sasl/paraffins-turner.pdf)
+4. [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/)
