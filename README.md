@@ -70,6 +70,13 @@ out my mistakes.
     Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/marktoberdorf/mark.pdf)
 25. [Monads for the Curious Programmer, Part
     1](http://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/)
+26. [The essence of functional programming - Philip
+    Wadler](http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.38.9516&rep=rep1&type=pdf)
+27. [A history of Haskell: being lazy with class - Paul Hudak, John Hughes,
+    Simon Peyton Jones, Philip
+    Wadler](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
+28. [Functional Geometry](http://eprints.soton.ac.uk/257577/1/funcgeo2.pdf)
+29. [Exact Real Arithmetic](https://www.haskell.org/haskellwiki/Exact_real_arithmetic)
 
 ### General
 
