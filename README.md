@@ -77,6 +77,8 @@ out my mistakes.
     Wadler](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
 28. [Functional Geometry](http://eprints.soton.ac.uk/257577/1/funcgeo2.pdf)
 29. [Exact Real Arithmetic](https://www.haskell.org/haskellwiki/Exact_real_arithmetic)
+30. * [The Conception, Evolution, and Application of Functional Programming
+    Languages](http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf)
 
 ### General
 
