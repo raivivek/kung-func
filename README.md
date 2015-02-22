@@ -80,6 +80,18 @@ out my mistakes.
 30. * [The Conception, Evolution, and Application of Functional Programming
     Languages](http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf)
 
+### Haskell Weekly News
+1. February 17, [Weekly news 317](https://mail.haskell.org/pipermail/haskell-cafe/2015-February/118220.html)
+2. February 5, [Weekly news 316](gmane.comp.lang.haskell.general/20511)
+3. January 22, [Weekly news 315](https://mail.haskell.org/pipermail/haskell-cafe/2015-January/117829.html)
+4. January 8, [Weekly news 314](https://mail.haskell.org/pipermail/haskell-cafe/2015-January/117679.html)
+5. December 11, [Weekly news 313](https://mail.haskell.org/pipermail/haskell-cafe/2014-December/117261.html)
+6. November 20, [Weekly news 312](https://mail.haskell.org/pipermail/haskell-cafe/2014-November/117034.html)
+7. October 30, [Weekly news 311](https://mail.haskell.org/pipermail/haskell-cafe/2014-October/116668.html)
+8. October 23, [Weekly news 310](https://mail.haskell.org/pipermail/haskell-cafe/2014-October/116599.html)
+9. October 9, [Weekly news 309](https://mail.haskell.org/pipermail/haskell-cafe/2014-October/116371.html)
+10. October 2, [Weekly news 308](https://mail.haskell.org/pipermail/haskell-cafe/2014-October/116280.html)
+
 ### General
 
 1. [Rambles around computer science](http://www.cl.cam.ac.uk/~srk31/blog/2014/10/07/)
