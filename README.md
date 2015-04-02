@@ -7,13 +7,13 @@ something laughable (or interesting?), please don't mind and feel free to point
 out my mistakes.
 
 ## TODO
-1. [SICP](mitpress.mit.edu/sicp/)
-
-## Doing
-1. Introduction to Functional Programming,
+1. Introduction to Functional Programming (*partly complete*),
    [FP101x](https://courses.edx.org/courses/DelftX/FP101x/),
    [edX.org](http://edx.org)
 2. [Ninety-Nine Haskell Problems](https://www.haskell.org/haskellwiki/99_questions)
+
+## Doing
+1. [SICP](mitpress.mit.edu/sicp/)
 
 ## Useful Collections
 1. [gwern.net](http://gwern.net)
