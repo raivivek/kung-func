@@ -29,7 +29,7 @@ out my mistakes.
 2. [Programming Language Concepts — The Lambda Calculus
    Approach∗](http://wwwhome.ewi.utwente.nl/~fokkinga/mmf87c.pdf)
 3. [OO versus FP — a little case
-   study](http://wwwhome.ewi.utwente.nl/~fokkinga/mmf95b.pdf)
+   study](https://maartenfokkinga.github.io/utwente/mmf95b.pdf)
 4. [The Boom
    Hierarchy](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.3252&rep=rep1&type=pdf)
 5. [Algebraic Data Types and Program
@@ -99,3 +99,7 @@ out my mistakes.
    (1989)](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=E3EF5044D50D630339F9E28C64904623?doi=10.1.1.33.5381)
 3. [The Semantic Elegance of Applicative Languages](http://nsl.com/misc/sasl/paraffins-turner.pdf)
 4. [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/)
+
+
+> Please report any broken or missing links via GitHub issue tracker or by creating
+> a pull request.
