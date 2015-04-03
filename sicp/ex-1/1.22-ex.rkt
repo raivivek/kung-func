@@ -2,7 +2,7 @@
 
 (define (smallest-divisor n) (find-divisor n 2))
 (define (divides? a b) (= (remainder b a) 0))
-(define (square n) * n n)
+(define (square n) (* n n))
 
 (define (find-divisor n test-divisor)
   (cond ((> (square test-divisor) n) n)
@@ -13,33 +13,36 @@
   (= n (smallest-divisor n)))
 
 (define (timed-prime-test n)
-  (newline)
-  (display n)
   (start-prime-test n (runtime)))
 
 (define (start-prime-test n start-time)
   (if (prime? n)
-      (report-prime (- (runtime) start-time))))
+      (report-prime (- (runtime) start-time))
+      #f))
 
-(define (report-prime b elapsed-time)
-  (display b)
+(define (report-prime elapsed-time)
   (display " *** ")
   (display elapsed-time))
 
-(define (search-for-primes a b n)
+(define (search-for-primes a n)
   (search-prime-iter (if (even? a) (+ a 1) a)
-                     (if (even? b) (- b 1) b)
-                     0
-                     (runtime)))
+                     0))
 
-(define (search-prime-iter a b n start-time)
+(define (search-prime-iter a n)
   (cond ((= n 3)
-         (report-prime b (- (runtime) start-time)))
+         a)
         (else
-           (if (prime? a)
-             (search-prime-iter (+ 2 a) b (+ 1 n) start-time)
-             (search-prime-iter (+ 2 a) b n start-time)))))
+           (if (timed-prime-test a)
+             (search-prime-iter (+ 2 a) (+ 1 n))
+             (search-prime-iter (+ 2 a) n )))))
 
-; CAUTION: Don't know why this is taking linear computation time on my machine.
-; Perhaps I have written the procedure in a way that has transformed it into
-; a O(n) process from O(log n).
+; we can clearly observe that the runtimes between successive procedure
+; calls below has a ratio of around 3 ~ sqrt(10).
+(search-for-primes 100 3)
+(search-for-primes 1000 3)
+(search-for-primes 10000 3)
+(search-for-primes 100000 3)
+(search-for-primes 1000000 3)
+(search-for-primes 10000000 3)
+(search-for-primes 100000000 3)
+(search-for-primes 1000000000 3)
