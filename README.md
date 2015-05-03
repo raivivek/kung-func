@@ -81,6 +81,7 @@ out my mistakes.
     Languages](http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf)
 
 ### Haskell Weekly News
+1. April 23, [Weekly news 326](https://mail.haskell.org/pipermail/haskell-cafe/2015-April/119302.html)
 1. April 14, [Weekly news 325](https://mail.haskell.org/pipermail/haskell-cafe/2015-April/119042.html)
 2. April 9, [Weekly news 324](https://mail.haskell.org/pipermail/haskell-cafe/2015-April/118992.html)
 3. April 1, [Weekly news 323](https://mail.haskell.org/pipermail/haskell-cafe/2015-April/118919.html)
