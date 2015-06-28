@@ -37,7 +37,7 @@
              (search-prime-iter (+ 2 a) n )))))
 
 ; we can clearly observe that the runtimes between successive procedure
-; calls below has a ratio of around 3 ~ sqrt(10).
+; calls below has a ratio between 3 to 4 (factor of at least ~ sqrt(10))
 (search-for-primes 100 3)
 (search-for-primes 1000 3)
 (search-for-primes 10000 3)
@@ -46,3 +46,5 @@
 (search-for-primes 10000000 3)
 (search-for-primes 100000000 3)
 (search-for-primes 1000000000 3)
+(search-for-primes 10000000000 3)
+(search-for-primes 100000000000 3)

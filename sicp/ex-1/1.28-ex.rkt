@@ -1,5 +1,13 @@
 #lang planet neil/sicp
 
+;To test the primality of a number n by the Miller-Rabin test, we pick a random
+;number a < n and raise a to the (n − 1)-st power modulo n using the expmod
+;procedure. However, whenever we perform the squaring step in expmod, we check
+;to see if we have discovered a “nontrivial square root of 1 modulo n,” that
+;is, a number not equal to 1 or n −1 whose square is equal to 1 modulo n. It
+;is possible to prove that if such a nontrivial square root of 1 exists, then
+;n is not prime.
+
 (define (square n) (* n n))
 
 (define (expmod base exp m)
