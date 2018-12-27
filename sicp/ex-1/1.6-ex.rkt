@@ -13,4 +13,4 @@
 ; which follows the applicative method of evaluation i.e., the all arguments to
 ; the procedure are evalauted first. This causes the program to run in infinite
 ; loop.
-; That's why `if` needs to be define as a special form.
+; That's why `if` needs to be defined as a special language construct.
