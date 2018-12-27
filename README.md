@@ -13,7 +13,7 @@ out my mistakes.
 2. [Ninety-Nine Haskell Problems](https://www.haskell.org/haskellwiki/99_questions)
 
 ## Doing
-1. [SICP](mitpress.mit.edu/sicp/) (*In MIT Scheme*)
+1. [SICP](http://mitpress.mit.edu/sicp/) (*In MIT Scheme*)
 
 ## Useful Collections
 1. [gwern.net](http://gwern.net)
