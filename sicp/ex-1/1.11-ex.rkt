@@ -17,4 +17,4 @@
                             (* 2 b)
                             (* 3 a)))
           (else (iter c (* 2 b) (* 3 a) (+ counter 1)))))
-  (iter 0 1 2 3))
+  (iter 0 1 2 3)) ; n is within the block scope
